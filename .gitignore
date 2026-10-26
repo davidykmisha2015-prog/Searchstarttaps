@@ -1,18 +1,16 @@
-# Кеш байт-коду Python
+# Cash byte-code python
 __pycache__/
 *.py[cod]
 *$py.class
 
-# Віртуальні середовища (якщо будуть)
+# virtual
 venv/
 .venv/
 env/
 
-# Налаштування редакторів
 .vscode/
 .idea/
 
-# Сміття ОС
 .DS_Store
 *.swp
 *~
