@@ -1,0 +1,12 @@
+[
+  {
+    "name": "Stripe",
+    "cat": "fintech",
+    "desc": "Online payment processing"
+  },
+  {
+    "name": "Airbnb",
+    "cat": "travel",
+    "desc": "Vacation rentals and experiences"
+  }
+]
