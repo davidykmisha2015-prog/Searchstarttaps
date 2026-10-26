@@ -1,8 +1,13 @@
 import customtkinter as ctk
 import json
+from pathlib import Path
 
-with open("Starttaps.json", "r") as f:
-        start = json.load(f)
+BASE_DIR = Path(__file__).resolve().parent
+
+DATA_FILE = BASE_DIR.parent / "Starttaps.json"
+
+with open(DATA_FILE, "r", encoding="utf-8") as f:
+    start = json.load(f)
 
 # Налаштування вікна
 ctk.set_appearance_mode("dark")

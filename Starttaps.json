@@ -1,12 +1,17 @@
 [
   {
-    "name": "Stripe",
-    "cat": "fintech",
-    "desc": "Online payment processing"
+    "name": "Dropbox"
   },
   {
-    "name": "Airbnb",
-    "cat": "travel",
-    "desc": "Vacation rentals and experiences"
+    "name": "Coinbase"
+  },
+  {
+    "name": "GitLab"
+  },
+  {
+    "name": "Reddit"
+  },
+  {
+    "name": "Twitch"
   }
 ]
